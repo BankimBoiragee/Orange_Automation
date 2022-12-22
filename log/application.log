@@ -1,0 +1,426 @@
+2022-08-30 19:58:01,193 [main] INFO QA Bankim - User able to open any browser
+2022-08-30 19:58:01,268 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-30 19:58:01,276 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-30 19:58:02,257 [main] INFO QA Bankim - User able to enter the url
+2022-08-30 19:58:08,400 [main] INFO QA Bankim - User able to enter the userName
+2022-08-30 19:58:08,889 [main] INFO QA Bankim - User able to enter the password
+2022-08-30 19:58:08,958 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-30 19:58:09,164 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-30 19:58:11,057 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-30 19:58:12,267 [main] INFO QA Bankim - User can verify the user information
+2022-08-30 20:32:51,105 [main] INFO QA Bankim - User able to open any browser
+2022-08-30 20:32:51,182 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-30 20:32:51,189 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-30 20:32:52,114 [main] INFO QA Bankim - User able to enter the url
+2022-08-30 20:32:58,579 [main] INFO QA Bankim - User able to enter the userName
+2022-08-30 20:32:59,106 [main] INFO QA Bankim - User able to enter the password
+2022-08-30 20:32:59,165 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-30 20:32:59,358 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-30 20:33:01,949 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-30 20:33:03,329 [main] INFO QA Bankim - User can verify the user information
+2022-08-30 23:23:49,027 [main] INFO QA Bankim - User able to open any browser
+2022-08-30 23:23:49,103 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-30 23:23:49,112 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-30 23:23:50,192 [main] INFO QA Bankim - User able to enter the url
+2022-08-30 23:23:52,033 [main] INFO QA Bankim - User able to enter the userName
+2022-08-30 23:23:52,397 [main] INFO QA Bankim - User able to enter the password
+2022-08-30 23:23:52,459 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-30 23:23:52,665 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-30 23:23:54,743 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-30 23:23:56,013 [main] INFO QA Bankim - User can verify the user information
+2022-08-30 23:54:23,917 [main] INFO QA Bankim - User able to open any browser
+2022-08-30 23:54:24,398 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-30 23:54:24,407 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-30 23:54:25,404 [main] INFO QA Bankim - User able to enter the url
+2022-08-30 23:54:31,284 [main] INFO QA Bankim - User able to enter the userName
+2022-08-30 23:54:31,828 [main] INFO QA Bankim - User able to enter the password
+2022-08-30 23:54:31,893 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-30 23:54:32,099 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-30 23:54:34,129 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-30 23:54:35,386 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 08:24:33,291 [main] INFO QA Bankim - User able to open any browser
+2022-08-31 08:24:33,375 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-31 08:24:33,384 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-31 08:24:34,591 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 08:24:40,754 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 08:24:41,256 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 08:24:41,313 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 08:24:41,521 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 08:24:43,520 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 08:24:44,851 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 12:39:06,022 [main] INFO QA Bankim - User able to open chrome browser
+2022-08-31 12:39:06,094 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 104.0.5112.79 (since Google Chrome 104 is installed in your machine)
+2022-08-31 12:39:06,102 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+2022-08-31 12:39:07,079 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 12:39:10,642 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 12:39:11,357 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 12:39:11,419 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 12:39:11,588 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 12:39:13,818 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 12:39:15,054 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 12:40:26,802 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 12:40:27,885 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 12:40:31,119 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 12:40:31,784 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 12:40:31,847 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 12:40:32,041 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 12:40:34,201 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 12:40:35,546 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 13:08:16,524 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 13:08:19,240 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 13:08:22,734 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 13:08:23,500 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 13:08:23,568 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 13:08:23,803 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 13:08:25,893 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 13:08:26,544 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 13:17:32,251 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 13:17:34,895 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 13:17:42,555 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 13:17:43,176 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 13:17:43,254 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 13:17:43,485 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 13:17:45,604 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 13:17:46,434 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 13:45:27,835 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 13:45:30,470 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 13:45:32,576 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 13:45:32,909 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 13:45:32,976 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 13:45:33,171 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 13:45:35,208 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 13:45:36,524 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 18:50:02,153 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 18:50:03,347 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 18:50:05,693 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 18:50:06,082 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 18:50:06,156 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 18:50:06,378 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 18:50:08,567 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 18:50:09,899 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 20:07:04,899 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 20:07:07,576 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 20:07:09,934 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 20:07:10,297 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 20:07:10,369 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 20:07:10,593 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 20:07:12,685 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 20:07:13,401 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 20:09:56,381 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 20:09:59,044 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 20:10:01,802 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 20:10:02,347 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 20:10:02,427 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 20:10:02,665 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 20:10:04,896 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 20:10:06,169 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:17:27,714 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:17:30,369 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:17:32,361 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:17:32,713 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:17:32,783 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:17:33,004 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:17:35,118 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:17:35,947 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:21:43,967 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:21:46,591 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:21:50,501 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:21:51,277 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:21:51,345 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:21:51,560 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:21:53,616 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:21:54,942 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:24:00,914 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:24:03,576 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:24:05,710 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:24:06,035 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:24:06,103 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:24:06,336 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:24:08,411 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:24:09,085 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:24:56,118 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:24:58,726 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:25:00,790 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:25:01,309 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:25:01,372 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:25:01,585 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:25:04,418 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:25:05,693 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:27:30,939 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:27:33,524 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:27:37,687 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:27:38,396 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:27:38,459 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:27:38,685 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:27:40,584 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:27:41,851 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:29:44,416 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:29:47,089 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:29:52,991 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:29:53,508 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:29:53,571 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:29:53,791 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:29:55,824 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:29:57,069 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 22:34:46,477 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 22:34:49,107 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 22:34:54,884 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 22:34:55,411 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 22:34:55,475 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 22:34:55,691 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 22:34:57,670 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 22:34:58,917 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 23:06:02,654 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 23:06:05,247 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 23:06:08,761 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 23:06:09,184 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 23:06:09,247 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 23:06:09,462 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 23:06:11,433 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 23:06:12,689 [main] INFO QA Bankim - User can verify the user information
+2022-08-31 23:08:06,027 [main] INFO QA Bankim - User able to open edge browser
+2022-08-31 23:08:08,660 [main] INFO QA Bankim - User able to enter the url
+2022-08-31 23:08:12,483 [main] INFO QA Bankim - User able to enter the userName
+2022-08-31 23:08:13,177 [main] INFO QA Bankim - User able to enter the password
+2022-08-31 23:08:13,241 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-08-31 23:08:13,459 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-08-31 23:08:15,436 [main] INFO QA Bankim - User able to click on the Logout button
+2022-08-31 23:08:16,719 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 19:10:05,748 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 19:10:06,898 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 19:10:10,373 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 19:10:11,079 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 19:10:11,140 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 19:10:11,365 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 19:10:13,350 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 19:10:14,584 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 20:54:42,189 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 20:54:44,861 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 20:54:50,757 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 20:54:51,297 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 20:54:51,355 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 20:54:51,562 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 20:54:53,565 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 20:54:54,237 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 20:55:49,133 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 20:55:51,773 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 20:55:57,114 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 20:55:57,623 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 20:55:57,688 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 20:55:57,912 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 20:55:59,883 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 20:56:01,436 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 20:58:21,052 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 20:58:23,689 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 20:58:29,424 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 20:58:29,920 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 20:58:29,986 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 20:58:30,208 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 20:58:32,135 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 20:58:32,702 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 21:01:05,677 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 21:01:08,272 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 21:01:14,993 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 21:01:15,487 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 21:01:15,550 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 21:01:15,789 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 21:01:18,045 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 21:01:19,318 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 21:07:15,102 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 21:07:17,751 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 21:07:24,454 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 21:07:24,969 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 21:07:25,041 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 21:07:25,239 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 21:07:27,186 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 21:07:28,486 [main] INFO QA Bankim - User can verify the user information
+2022-09-01 21:08:26,566 [main] INFO QA Bankim - User able to open edge browser
+2022-09-01 21:08:29,218 [main] INFO QA Bankim - User able to enter the url
+2022-09-01 21:08:35,941 [main] INFO QA Bankim - User able to enter the userName
+2022-09-01 21:08:36,521 [main] INFO QA Bankim - User able to enter the password
+2022-09-01 21:08:36,584 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-01 21:08:36,820 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-01 21:08:38,806 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-01 21:08:40,088 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:27:18,156 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:27:19,240 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:27:26,008 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:27:26,610 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:27:26,673 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:27:26,896 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:27:28,818 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:27:30,111 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:28:44,533 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:28:47,179 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:28:51,259 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:28:51,693 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:28:51,752 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:28:51,949 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:28:53,903 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:28:54,487 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:29:29,135 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:29:31,816 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:29:35,125 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:29:35,573 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:29:35,634 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:29:35,830 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:29:37,781 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:29:39,065 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:40:30,094 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:40:32,815 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:40:36,764 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:40:37,508 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:40:37,569 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:40:37,771 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:40:39,771 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:40:41,078 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:41:43,958 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:41:46,634 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:41:53,971 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:41:54,566 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:41:54,631 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:41:54,844 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:41:56,934 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:41:58,170 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:49:35,485 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:49:38,186 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:49:45,516 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:49:46,157 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:49:46,221 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:49:46,428 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:49:48,521 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:49:49,152 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:50:21,392 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:50:24,120 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:50:30,093 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:50:30,654 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:50:30,714 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:50:30,908 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:50:33,007 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:50:33,612 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 19:51:56,561 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 19:51:59,263 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 19:52:04,634 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 19:52:05,280 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 19:52:05,349 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 19:52:05,570 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 19:52:07,689 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 19:52:08,971 [main] INFO QA Bankim - User can verify the user information
+2022-09-02 20:10:04,831 [main] INFO QA Bankim - User able to open edge browser
+2022-09-02 20:10:07,488 [main] INFO QA Bankim - User able to enter the url
+2022-09-02 20:10:14,356 [main] INFO QA Bankim - User able to enter the userName
+2022-09-02 20:10:14,821 [main] INFO QA Bankim - User able to enter the password
+2022-09-02 20:10:14,886 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-02 20:10:14,956 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-02 20:10:17,066 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-02 20:10:18,370 [main] INFO QA Bankim - User can verify the user information
+2022-09-03 11:43:28,695 [main] INFO QA Bankim - User able to open edge browser
+2022-09-03 11:43:29,745 [main] INFO QA Bankim - User able to enter the url
+2022-09-03 11:43:32,675 [main] INFO QA Bankim - User able to enter the userName
+2022-09-03 11:43:33,005 [main] INFO QA Bankim - User able to enter the password
+2022-09-03 11:43:33,074 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-03 11:43:33,297 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-03 11:43:35,267 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-03 11:43:36,507 [main] INFO QA Bankim - User can verify the user information
+2022-09-03 11:49:09,288 [main] INFO QA Bankim - User able to open edge browser
+2022-09-03 11:49:11,944 [main] INFO QA Bankim - User able to enter the url
+2022-09-03 11:49:18,026 [main] INFO QA Bankim - User able to enter the userName
+2022-09-03 11:49:18,669 [main] INFO QA Bankim - User able to enter the password
+2022-09-03 11:49:18,733 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-03 11:49:18,948 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-03 11:49:20,905 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-03 11:49:22,170 [main] INFO QA Bankim - User can verify the user information
+2022-09-03 12:05:01,867 [main] INFO QA Bankim - User able to open edge browser
+2022-09-03 12:05:04,497 [main] INFO QA Bankim - User able to enter the url
+2022-09-03 12:05:07,863 [main] INFO QA Bankim - User able to enter the userName
+2022-09-03 12:05:08,659 [main] INFO QA Bankim - User able to enter the password
+2022-09-03 12:05:08,718 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-03 12:05:08,904 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-03 12:05:10,869 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-03 12:05:12,162 [main] INFO QA Bankim - User can verify the user information
+2022-09-03 14:50:33,886 [main] INFO QA Bankim - User able to open edge browser
+2022-09-03 14:50:34,942 [main] INFO QA Bankim - User able to enter the url
+2022-09-03 14:50:37,188 [main] INFO QA Bankim - User able to enter the userName
+2022-09-03 14:50:37,530 [main] INFO QA Bankim - User able to enter the password
+2022-09-03 14:50:37,601 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-03 14:50:37,823 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-03 14:50:39,778 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-03 14:50:40,583 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 00:04:22,229 [main] INFO QA Bankim - User able to open edge browser
+2022-09-04 00:04:23,273 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 00:04:26,857 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 00:04:27,537 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 00:04:27,604 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 00:04:27,819 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 00:04:29,779 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 00:04:31,057 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 18:51:14,820 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 18:51:14,854 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-09-04 18:51:15,209 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+2022-09-04 18:51:15,500 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2022-09-04 18:51:15,573 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 18:51:16,993 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 18:51:20,355 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 18:51:21,150 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 18:51:21,212 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 18:51:21,417 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 18:51:23,436 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 18:51:24,091 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 18:54:28,863 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 18:54:28,872 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 18:54:29,823 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 18:54:33,473 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 18:54:34,228 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 18:54:34,288 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 18:54:34,480 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 18:54:36,765 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 18:54:38,131 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 20:43:52,485 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 20:43:52,494 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 20:43:53,529 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 20:43:57,435 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 20:43:58,174 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 20:43:58,239 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 20:43:58,440 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 20:44:00,430 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 20:44:01,680 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 20:53:25,719 [main] INFO QA Bankim - User able to open chrome browser
+2022-09-04 20:53:25,791 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 20:53:25,799 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 20:53:26,743 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 20:53:30,434 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 20:53:31,109 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 20:53:31,170 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 20:53:31,354 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 20:53:33,325 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 20:53:34,611 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 20:59:22,973 [main] INFO QA Bankim - User able to open chrome browser
+2022-09-04 20:59:23,045 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 20:59:23,051 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 20:59:23,998 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 20:59:27,996 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 20:59:28,728 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 20:59:28,795 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 20:59:28,996 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 20:59:30,968 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 20:59:32,263 [main] INFO QA Bankim - User can verify the user information
+2022-09-04 21:05:32,380 [main] INFO QA Bankim - User able to open chrome browser
+2022-09-04 21:05:32,450 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-04 21:05:32,458 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-04 21:05:33,321 [main] INFO QA Bankim - User able to enter the url
+2022-09-04 21:05:36,841 [main] INFO QA Bankim - User able to enter the userName
+2022-09-04 21:05:37,530 [main] INFO QA Bankim - User able to enter the password
+2022-09-04 21:05:37,591 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-04 21:05:37,780 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-04 21:05:39,859 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-04 21:05:41,109 [main] INFO QA Bankim - User can verify the user information
+2022-09-05 00:40:27,569 [main] INFO QA Bankim - User able to open chrome browser
+2022-09-05 00:40:27,652 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 105.0.5195.52 (since Google Chrome 105 is installed in your machine)
+2022-09-05 00:40:27,659 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.m2\repository\webdriver\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-05 00:40:28,697 [main] INFO QA Bankim - User able to enter the url
+2022-09-05 00:40:32,225 [main] INFO QA Bankim - User able to enter the userName
+2022-09-05 00:40:32,928 [main] INFO QA Bankim - User able to enter the password
+2022-09-05 00:40:33,001 [main] INFO QA Bankim - User able to click on the LOGIN button
+2022-09-05 00:40:33,222 [main] INFO QA Bankim - User able to click on the Paul Collings
+2022-09-05 00:40:35,312 [main] INFO QA Bankim - User able to click on the Logout button
+2022-09-05 00:40:36,559 [main] INFO QA Bankim - User can verify the user information

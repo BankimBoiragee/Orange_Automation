@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SanityTest]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="orange.usa.listener.ListenerTest"/>
+  </listeners>
+  <test thread-count="5" name="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login(failed)">
+    <classes>
+      <class name="orange.usa.myrunner.MyRunner">
+        <methods>
+          <include name="runScenario" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- orange.usa.myrunner.MyRunner -->
+    </classes>
+  </test> <!-- https://opensource-demo.orangehrmlive.com/web/index.php/auth/login(failed) -->
+</suite> <!-- Failed suite [SanityTest] -->

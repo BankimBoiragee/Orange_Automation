@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-22T06:06:45Z" name="SanityTest" finished-at="2022-12-22T06:06:46Z" duration-ms="605">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:orange.usa.myrunner.MyRunner@604f2bd2]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-12-22T06:06:45Z" name="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" finished-at="2022-12-22T06:06:46Z" duration-ms="605">
+      <class name="orange.usa.myrunner.MyRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:orange.usa.myrunner.MyRunner@604f2bd2]" started-at="2022-12-22T06:06:45Z" name="setUpClass" finished-at="2022-12-22T06:06:46Z" duration-ms="257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6fd5717c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:orange.usa.myrunner.MyRunner@604f2bd2]" started-at="2022-12-22T06:06:46Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-12-22T06:06:46Z" duration-ms="161" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User able to login the application with the valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Valid user able to login the application"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "orange.usa.basepage.BasePage.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "orange.usa.basepage.BasePage.driver" is null
+at orange.usa.basepage.BasePage.startAutomation(BasePage.java:95)
+at orange.usa.stepdefinations.LoginTest.user_able_to_open_any_browser(LoginTest.java:25)
+at ✽.User able to open any browser(file:///C:/Users/user/eclipse-workspace/Orange_AutoFramwork/./Features/LoginFunction.feature:6)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:orange.usa.myrunner.MyRunner@604f2bd2]" started-at="2022-12-22T06:06:46Z" name="tearDownClass" finished-at="2022-12-22T06:06:46Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- orange.usa.myrunner.MyRunner -->
+    </test> <!-- https://opensource-demo.orangehrmlive.com/web/index.php/auth/login -->
+  </suite> <!-- SanityTest -->
+</testng-results>
